@@ -1,7 +1,5 @@
 # Project REST-Rant
 
-TBD - SUMMARY
-
 ## Tech Usage
 
 **CSS Framework:** Bootstrap
@@ -50,21 +48,3 @@ TBD - SUMMARY
 | rating | Number |
 | comment | String |
 | reviewer | String |
-
-## Planning
-
-### User Stories
-
-TBD
-
-### Wireframes
-
-TBD
-
-## Notes
-
-Possible bonus ideas:
-
-* Update for comments
-* Aggregate rating for a place
-* Auto-complete state dropdown# RestRant
